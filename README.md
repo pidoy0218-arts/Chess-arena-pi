@@ -1,75 +1,59 @@
-# Chess-arena-pi
-Mobile chess app with pi integration
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Chess Arena Privacy Policy</title>
-</head>
-<body>
-  <h1>Privacy Policy</h1>
-  <p>Effective Date: July 24, 2025</p>
-  <p>Chess Arena respects your privacy. This Privacy Policy outlines how we collect, use, and protect your information.</p>
 
-  <h2>1. Information We Collect</h2>
-  <ul>
-    <li>Account registration info (username, email, Pi Network ID)</li>
-    <li>Gameplay data and performance stats</li>
-    <li>Device and usage data for analytics</li>
-  </ul>
+# Privacy Policy for Chess Arena
 
-  <h2>2. How We Use Information</h2>
-  <p>We use your data to provide a personalized chess experience, improve app performance, enable social features, and offer Pi Network integration.</p>
+**Effective Date:** July 24, 2025  
+**App Name:** Chess Arena  
+**Developer:** pidoy0218-arts
 
-  <h2>3. Sharing Your Information</h2>
-  <p>We do not sell your data. Information may be shared with Pi Network or legal authorities when required.</p>
+## 1. Introduction
 
-  <h2>4. Your Rights</h2>
-  <p>You may request deletion of your data by contacting us at pidoy0218@gmail.com.</p>
+This Privacy Policy outlines how Chess Arena collects, uses, and protects user data in connection with the use of our mobile chess app, especially when integrated with Pi Network services.
 
-  <h2>5. Security</h2>
-  <p>We implement best practices to protect your data but cannot guarantee absolute security.</p>
+## 2. Information We Collect
 
-  <h2>6. Updates</h2>
-  <p>We may update this Privacy Policy. We’ll notify you via the app.</p>
+- **User Information:** Username, Pi Network ID, optional email
+- **Game Activity:** Puzzle completions, match stats, leaderboard data
+- **Device Info:** OS version, device model, IP address
+- **App Usage:** Session logs, crash reports, error logs
 
-  <h2>7. Contact Us</h2>
-  <p>If you have questions, email us at pidoy0218@gmail.com.</p>
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Chess Arena Terms and Conditions</title>
-</head>
-<body>
-  <h1>Terms and Conditions</h1>
-  <p>Effective Date: July 24, 2025</p>
-  <p>By using the Chess Arena app, you agree to these Terms and Conditions.</p>
+## 3. How We Use the Data
 
-  <h2>1. Use of App</h2>
-  <p>You may use the app only for lawful purposes and in accordance with these terms.</p>
+- To authenticate users via Pi Network
+- To track game progress and show rankings
+- To improve app stability and performance
+- For analytics and feature improvements
 
-  <h2>2. Accounts</h2>
-  <p>You're responsible for your account and activity. You may be required to register with Pi Network.</p>
+## 4. Data Sharing
 
-  <h2>3. Virtual Goods</h2>
-  <p>Tokens and Pi Coin rewards have no real-world value unless otherwise stated.</p>
+We do **not sell** or share your data with third parties except:
+- When required by law
+- For server hosting or analytics by trusted providers
 
-  <h2>4. Intellectual Property</h2>
-  <p>All content, including logos and designs, is the property of Chess Arena.</p>
+## 5. Data Retention
 
-  <h2>5. Limitation of Liability</h2>
-  <p>We are not responsible for any losses or damages related to app use.</p>
+We store user data as long as the account is active. You may request deletion at any time.
 
-  <h2>6. Termination</h2>
-  <p>We may suspend or terminate accounts that violate these terms.</p>
+## 6. Security
 
-  <h2>7. Changes to Terms</h2>
-  <p>We may update these terms. Continued use of the app means you accept the changes.</p>
+We implement standard encryption and protection protocols. However, no digital platform is 100% secure.
 
-  <h2>8. Contact</h2>
-  <p>For questions, email pidoy0218@gmail.com.</p>
-</body>
-</html>
+## 7. Children's Privacy
+
+Chess Arena is not directed at children under 13. If we learn we've collected data from a child, we will delete it.
+
+## 8. Your Rights
+KO
+You have the right to:
+- Access your data
+- Request corrections
+- Ask for account/data deletion
+
+## 9. Changes to This Policy
+
+We may update this Privacy Policy from time to time. Changes will be posted on this page with the revised date.
+
+## 10. Contact Us
+
+For privacy concerns, contact us at:  
+📧 **Email:** pidoy0218@gmail.com  
+🌐 **GitHub Repo:** [Chess Arena on GitHub](https://github.com/pidoy0218-arts/
