@@ -1,4 +1,4 @@
-
+docs/.trigger.txt
 # Privacy Policy for Chess Arena
 
 **Effective Date:** July 24, 2025  
