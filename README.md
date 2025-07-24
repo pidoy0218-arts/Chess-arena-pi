@@ -25,35 +25,32 @@ This Privacy Policy outlines how Chess Arena collects, uses, and protects user d
 
 ## 4. Data Sharing
 
-We do **not sell** or share your data with third parties except:
-- When required by law
-- For server hosting or analytics by trusted providers
+We **do not sell** your personal data. We may share limited information with:
+- **Service providers** for app hosting, analytics, and support.
+- **Legal authorities** if required by law or to protect rights.
 
 ## 5. Data Retention
 
-We store user data as long as the account is active. You may request deletion at any time.
+We retain user data only as long as necessary to provide our services or as required by law. Data no longer needed is securely deleted.
 
-## 6. Security
+## 6. Children’s Privacy
 
-We implement standard encryption and protection protocols. However, no digital platform is 100% secure.
+Chess Arena is **not intended for children under 13**. We do not knowingly collect data from children. If we become aware of such data, we will delete it immediately.
 
-## 7. Children's Privacy
+## 7. Your Rights
 
-Chess Arena is not directed at children under 13. If we learn we've collected data from a child, we will delete it.
+Depending on your location, you may have rights to:
+- Access or update your data.
+- Request deletion of your data.
+- Object to data processing.
 
-## 8. Your Rights
-KO
-You have the right to:
-- Access your data
-- Request corrections
-- Ask for account/data deletion
+To exercise these rights, contact us below.
 
-## 9. Changes to This Policy
+## 8. Changes to This Policy
 
-We may update this Privacy Policy from time to time. Changes will be posted on this page with the revised date.
+We may update this Privacy Policy periodically. Changes will be posted here with a new effective date.
 
-## 10. Contact Us
+## 9. Contact Us
 
-For privacy concerns, contact us at:  
-📧 **Email:** pidoy0218@gmail.com  
-🌐 **GitHub Repo:** [Chess Arena on GitHub](https://github.com/pidoy0218-arts/
+If you have questions or concerns about this policy, contact us at:  
+📧 **pidoy0218@gmail.com**
